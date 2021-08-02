@@ -63,7 +63,7 @@ Important functions：main()
 
 
 
-### I/O 列表 
+### I/O List 
 
 | ADC  |  UASRT1  | Frequency |
 | :--: | :------: | :-------: |
