@@ -4,7 +4,7 @@
 
 ## Introduction  
 
-This Demo uses the Tuya smart cloud platform, Tuya smart APP, TMP75 and IoTOS Embedded MCU SDK to realize a salty spoon.
+This Demo uses the Tuya smart cloud platform, Tuya smart APP and IoTOS Embedded MCU SDK to realize a salty spoon.
 
 The implemented features include:
 
